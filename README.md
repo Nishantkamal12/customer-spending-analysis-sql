@@ -95,5 +95,4 @@ This project contains **10 SQL queries** to answer key business questions:
 
 ## 👨‍💻 Author
 * Nishant Kamal
-Nishant Kamal
 
